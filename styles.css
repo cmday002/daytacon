@@ -348,6 +348,19 @@ body {
   align-items: center;
 }
 
+.team-image {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  object-fit: cover;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.team-image:hover {
+  transform: scale(1.05);
+}
+
 .image-placeholder {
   width: 300px;
   height: 300px;

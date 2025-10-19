@@ -1,4 +1,4 @@
-# DaytaCon Tech Consultancy Landing Page
+# Day One Solutions Tech Consultancy Landing Page
 
 A modern, clean landing page for a tech consultancy business, designed to be published on GitHub Pages.
 
@@ -51,7 +51,7 @@ Replace the video ID in `index.html`:
 
 Update the following in `index.html`:
 
-- Company name (DaytaCon)
+- Company name (Day One Solutions)
 - Contact information
 - Services descriptions
 - About section content
