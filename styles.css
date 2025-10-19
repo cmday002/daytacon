@@ -70,6 +70,7 @@ body {
   color: white;
   position: relative;
   overflow: hidden;
+  padding-top: 80px; /* Add padding to account for fixed navbar */
 }
 
 .hero::before {
